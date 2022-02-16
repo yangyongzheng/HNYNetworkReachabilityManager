@@ -20,7 +20,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" title="首页" id="YES-WK-ux7">
-                        <barButtonItem key="rightBarButtonItem" title="刷新" style="plain" id="GGh-rl-ScA">
+                        <barButtonItem key="rightBarButtonItem" title="刷新" style="done" id="GGh-rl-ScA">
                             <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
                                 <action selector="refreshItemDidClick:" destination="BYZ-38-t0r" id="Xku-eo-PC2"/>
